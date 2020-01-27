@@ -19,7 +19,7 @@
       "limit" : "21",
       "action_type" : "callback",
       "board_code" : "2019taste_pd",
-      "jwt-token" : "&_=1580081397208",
+      "jwttoken" : "&_=1580081397208",
       "postId" : "11773044",
       "memberNo" : "3669297",
       "seriesNo" : "472832",
