@@ -25,7 +25,7 @@
       "seriesNo" : "472832",
       "videoTit" : "h3.play_tit",
       "itemList" : [
-          { "title" : "전체레시피", "id" : "2", "img" : "", "sort" : "1"},
+          { "title" : "블로그레시피", "id" : "2", "img" : "", "sort" : "1"},
           { "title" : "메인레시피", "id" : "1", "img" : "", "sort" : "2"}
       ]
     }    
