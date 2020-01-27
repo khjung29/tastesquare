@@ -12,7 +12,7 @@
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
-      "url" : "https://api.board.sbs.co.kr/bbs/V2.0/basic/board/lists",
+      "url" : "https://api.board.sbs.co.kr/bbs/V2.0/basic/board/",
       "searchUrl" : "http://m.post.naver.com/search/authorPost/",
       "callback": "boardListCallback_2019taste_pd",
       "offset" : "0",
