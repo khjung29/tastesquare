@@ -1,0 +1,27 @@
+{ 
+  "channels" : [
+    {
+      "title" : "맛남의광장",
+      "fbNativeInterval" : "5",
+      "fbNativeReload" : "true",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "url" : "https://api.board.sbs.co.kr/bbs/V2.0/basic/board/lists",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "11773044",
+      "memberNo" : "3669297",
+      "seriesNo" : "472832",
+      "videoTit" : "h3.play_tit",
+      "itemList" : [
+          { "title" : "전체레시피", "id" : "2", "img" : "", "sort" : "1"},
+          { "title" : "메인레시피", "id" : "1", "img" : "", "sort" : "2"}
+      ]
+    }    
+  ]
+}
